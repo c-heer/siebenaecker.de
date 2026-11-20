@@ -3,3 +3,6 @@
 
 # Raw, unoptimized source footage (keep only the web-ready exports in assets/video)
 assets/video/DJI_*.MP4
+
+# macOS
+.DS_Store
